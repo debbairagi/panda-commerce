@@ -1,0 +1,106 @@
+body{
+    margin: 0;
+}
+.container{
+    margin-bottom: 50px;
+}
+
+
+
+/* carousel */
+#carousel{
+    background-color: #FEEAE9;
+    border-radius: 20px;
+}
+.carousel-item{
+    padding: 10px 50px;
+}
+.carousel-item p{
+    color: #707070;
+}
+.carousel-item h3{
+    color: #FF136F;
+}
+.buy-now-btn{
+    border: none;
+    font-size: 25px;
+    padding: 5px 15px;
+    background-color: #FF136F;
+    border-radius: 10px;
+    color: white;
+}
+.carousel-item img{
+    height: 100%;
+    
+}
+.nav-item{
+    padding: 0px 20px;
+}
+
+.catagories .col1, .col2, .col3{
+    border-radius: 18px;
+    padding: 10px 30px;
+
+}
+.catagories h1{
+    color: white;
+}
+.catagories h3{
+    padding:30px 0;
+}
+.catagories .col1{
+    background-image: linear-gradient(90deg,#FF9C35, #FFD019);
+}
+.catagories .col2{
+    background-image: linear-gradient(90deg, #FF589B, #FF136F);
+}
+.catagories .col3{
+    background-image: linear-gradient(90deg, #4289FF, #3F0FF8);
+}
+
+.shoes .card{
+    padding: 50px 30px;
+    align-items: center;
+    border-radius: 18px;
+    border: none;
+    box-shadow: 10px 10px 40px lightblue;
+}
+.card-text{
+    text-align: center;
+}
+.backpack .card{
+    padding: 50px 30px;
+    align-items: center;
+    border-radius: 18px;
+    border: none;
+    box-shadow: 5px 5px 20px greenyellow;
+}
+.backpack .buy-now-btn{
+    align-items: center;
+}
+
+#footer{
+    background-color: #FEEAE9;
+    height: 300px;
+    border-radius: 18px; 
+}
+#footer input{
+    border: none;
+    background-color: white;
+    padding: 10px 20px;
+    width: 300px;
+    margin-right: 0;
+}
+#footer .send-btn{
+    margin-left: 0;
+    border: none;
+    background-image: linear-gradient(90deg, #FF589B, #FF136F);
+    color: white;
+    padding: 10px 20px;
+}
+#footer p{
+    color:#707070;
+}
+h6{
+    text-align: centerf;
+}
